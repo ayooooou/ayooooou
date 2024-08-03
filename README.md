@@ -18,9 +18,11 @@
 ![img](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![img](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)
 
+### 更多 More
+
 <details>
 
-<summary> 紀錄 record </summary>
+<summary> 專案時間線紀錄 Project Time Record </summary>
 
 ### 2024 高一
 - 1 月 [AI放課](https://github.com/ayooooou/AI)
@@ -28,6 +30,6 @@
 - 6 月 [CITHUB](https://github.com/ayooooou/CITHUB)
 - 6 月 [C++ 學習](https://github.com/ayooooou/SproutOJ)
 - 7 月 [捷運大富翁](https://github.com/lucasw0908/izcc2024MRT)
-- 8 月 [排序DC BOT](https://github.com/ayooooou/choice-discord.py)
+- 8 月 [排志願DC BOT](https://github.com/ayooooou/choice-discord.py)
 
 </details>
