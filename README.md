@@ -10,7 +10,8 @@
 
 ![ayooooou's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayooooou&show_icons=true&theme=dark&locale=zh-tw)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayooooou&hide_progress=true&theme=dark&locale=zh-tw)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayooooou&hide_progress=true&theme=dark&locale=zh-tw&hide=Jupyter%20Notebook)
+
 
 ![img](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![img](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -28,7 +29,10 @@
 
 <summary> 專案時間線紀錄 Project Time Record </summary>
 
-### 2024 高一
+  <details>
+
+  <summary> 2024 高一 </summary>
+
 - #### 1 月 AI放課
   ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayooooou&repo=AI_After-school-class&theme=dark)
 - #### 5 月 網管培訓
@@ -40,5 +44,5 @@
   ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasw0908&repo=izcc2024MRT&theme=dark)
 - #### 8 月 社團分配工作機器人
   ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayooooou&repo=choice-discord.py&theme=dark)
-
+</details>
 </details>
