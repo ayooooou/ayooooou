@@ -7,12 +7,11 @@
 <!--use https://github.com/anuraghazra/github-readme-stats -->
 <!--use https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file -->
 
-![view](https://komarev.com/ghpvc/?username=ayooooou&color=green&style=for-the-badge&abbreviated=true&label=PROFILE+VIEWS)
-
 ![ayooooou's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayooooou&show_icons=true&theme=dark&locale=zh-tw)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayooooou&hide_progress=true&theme=dark&locale=zh-tw&hide=Jupyter%20Notebook)
 
+![view](https://komarev.com/ghpvc/?username=ayooooou&color=green&style=for-the-badge&abbreviated=true&label=PROFILE+VIEWS)
 
 ![img](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![img](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
