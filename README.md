@@ -37,7 +37,7 @@
   ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayooooou&repo=CITHUB&theme=dark)
   ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayooooou&repo=SproutOJ&theme=dark)
 - #### 7 月 IZCC暑訓活動-捷運大富翁
-  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayooooou&repo=izcc2024MRT&theme=dark)
+  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasw0908&repo=izcc2024MRT&theme=dark)
 - #### 8 月 社團分配工作機器人
   ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayooooou&repo=choice-discord.py&theme=dark)
 
