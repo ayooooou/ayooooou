@@ -3,10 +3,11 @@
 <!--
 **ayooooou/ayooooou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
+<!--use https://github.com/antonkomarev/github-profile-views-counter -->
 <!--use https://github.com/anuraghazra/github-readme-stats -->
 <!--use https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file -->
 
+![view](https://komarev.com/ghpvc/?username=ayooooou&color=green&style=for-the-badge&abbreviated=true&label=PROFILE+VIEWS)
 
 ![ayooooou's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayooooou&show_icons=true&theme=dark&locale=zh-tw)
 
