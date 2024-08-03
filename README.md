@@ -17,3 +17,13 @@
 ![img](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![img](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![img](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)
+
+<details>
+
+<summary>紀錄</summary>
+
+### 2024
+- 5~6月 [C++ 學習](https://github.com/ayooooou/SproutOJ)
+- 7~8月 [捷運大富翁](https://github.com/lucasw0908/izcc2024MRT)
+
+</details>
