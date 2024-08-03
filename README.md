@@ -30,7 +30,7 @@
 
 ### 2024 高一
 - #### 1 月 AI放課
-  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayooooou&repo=AI&theme=dark)
+  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayooooou&repo=AI_After-school-class&theme=dark)
 - #### 5 月 網管培訓
   ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayooooou&repo=Login-Flask-Mongodb&theme=dark)
 - #### 6 月 Flask放課成發 & C++語法練習
