@@ -1,4 +1,4 @@
-## About me✨
+
 
 <!--
 **ayooooou/ayooooou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,6 +6,9 @@
 <!--use https://github.com/antonkomarev/github-profile-views-counter -->
 <!--use https://github.com/anuraghazra/github-readme-stats -->
 <!--use https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file -->
+<!--use https://github.com/Open-Source-GecB/Create-a-special-repository-in-your-GitHub-Profile -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=About+me%E2%9C%A8)](https://git.io/typing-svg)
 
 ![ayooooou's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayooooou&show_icons=true&theme=dark&locale=zh-tw)
 
