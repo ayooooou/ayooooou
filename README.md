@@ -16,7 +16,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayooooou&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![view](https://komarev.com/ghpvc/?username=ayooooou&color=green&style=for-the-badge&abbreviated=true&label=PROFILE+VIEWS)
+![view](https://komarev.com/ghpvc/?username=ayooooou&color=green&style=for-the-badge&abbreviated=true&label=Visiter)
 
 ![img](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![img](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
